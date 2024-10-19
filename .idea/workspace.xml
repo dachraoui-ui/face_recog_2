@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07633b85-25ad-4bc1-a9f0-25fe0f9f264d" name="Changes" comment="" />
+    <list default="true" id="07633b85-25ad-4bc1-a9f0-25fe0f9f264d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/For_test/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_test/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_training/Mané.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For_training/Mané.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +44,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -29,26 +56,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/21627/Desktop/python/face_recognition2/For_training&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/21627/Desktop/python/face_recognition2/For_training",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\21627\Desktop\python\face_recognition2\For_training" />
+      <recent name="C:\Users\21627\Desktop\python\face_recognition2\For_test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\21627\Desktop\python\face_recognition2\For_test" />
       <recent name="C:\Users\21627\Desktop\python\face_recognition2\For_training" />
     </key>
   </component>
@@ -97,6 +126,8 @@
       <workItem from="1728944800847" duration="1379000" />
       <workItem from="1729203252366" duration="748000" />
       <workItem from="1729261863822" duration="2000" />
+      <workItem from="1729290699763" duration="384000" />
+      <workItem from="1729341296078" duration="7832000" />
     </task>
     <servers />
   </component>
@@ -104,6 +135,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/face_recognition2$main.coverage" NAME="main Coverage Results" MODIFIED="1729203929666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_recognition2$main.coverage" NAME="main Coverage Results" MODIFIED="1729351738234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

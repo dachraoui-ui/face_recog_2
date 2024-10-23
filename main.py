@@ -45,7 +45,7 @@ known_face_encodings = [ronaldo_face_encoding,
                         Mbappe_face_encoding,
                         Neymar_face_encoding,
                         Van_dyke_face_encoding]
-
+# player name
 known_face_names = ["Cristiano Ronaldo",
                     "Lionel Messi",
                     "Kevin De Bruyne",

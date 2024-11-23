@@ -89,6 +89,7 @@ for(top, right ,bottom , left ),face_encoding in zip (face_locations,face_encodi
     draw.text((left + 6 , bottom - text_height - 5),name,fill = (255,255,255,255))
 
 ## help me
+#pil_image.save("output.jpg")
 
 del draw
 pil_image.show()

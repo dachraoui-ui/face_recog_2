@@ -90,6 +90,7 @@ for(top, right ,bottom , left ),face_encoding in zip (face_locations,face_encodi
 
 ## help me
 #pil_image.save("output.jpg")
+#pil_image.show()
 
 del draw
 pil_image.show()

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07633b85-25ad-4bc1-a9f0-25fe0f9f264d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/face_recognition2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/face_recognition2.iml" afterDir="false" />
-    </list>
+    <list default="true" id="07633b85-25ad-4bc1-a9f0-25fe0f9f264d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,6 +121,7 @@
       <workItem from="1731624459693" duration="41000" />
       <workItem from="1731679013592" duration="786000" />
       <workItem from="1731796590626" duration="185000" />
+      <workItem from="1732389438429" duration="55000" />
     </task>
     <servers />
   </component>
